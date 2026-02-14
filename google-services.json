@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "74237450552",
+    "project_id": "hostclasses-cfc7b",
+    "storage_bucket": "hostclasses-cfc7b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74237450552:android:5c9ae26029a0d8e56e09cd",
+        "android_client_info": {
+          "package_name": "com.example.host_classes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYGQTmd7GSDIzT_ibmIV_UwM8cdZUppbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
